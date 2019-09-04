@@ -56,7 +56,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "webpacker"
 
   spec.add_dependency "fluent-plugin-td", "~> 1.0"
-  spec.add_dependency "fluent-plugin-mongo", "~> 1.1"
-  spec.add_dependency "fluent-plugin-elasticsearch", "~> 2.10"
+  spec.add_dependency "fluent-plugin-mongo", "~> 1.3"
+  spec.add_dependency "fluent-plugin-elasticsearch", "~> 3.5.0"
   spec.add_dependency "fluent-plugin-s3", "~> 1.1"
 end

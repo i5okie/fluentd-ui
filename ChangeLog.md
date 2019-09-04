@@ -1,3 +1,11 @@
+## Release 1.2.3 - 2019/09/04
+
+* [] [#288](https://github.com/fluent/fluentd-ui/pull/288) 
+* [] [#286](https://github.com/fluent/fluentd-ui/pull/286) 
+* [] [#285](https://github.com/fluent/fluentd-ui/pull/285) 
+* [] [#284](https://github.com/fluent/fluentd-ui/pull/284) 
+* [] [#283](https://github.com/fluent/fluentd-ui/pull/283) 
+
 ## Release 1.2.2 - 2018/12/06
 
 * [fixed] Bundle update
